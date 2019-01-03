@@ -1,6 +1,7 @@
 
-# Most APIs must be generated under "permissions"
-
+/*
+Most APIs must be generated under "permissions"
+*/
 
 {
   "name": "Getting Started Example",
